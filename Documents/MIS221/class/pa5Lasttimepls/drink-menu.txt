@@ -1,0 +1,7 @@
+1#Coca Cola#2.99#False#True
+2#Sprite#2.59#True#True
+3#Water#1#False#True
+4#Fruit Punch#2.99#True#True
+5#Sweet Tea#3.5#False#True
+6#Soda Water#2#False#True
+7#Mountain Dew#3#False#False

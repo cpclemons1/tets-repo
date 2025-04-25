@@ -1,0 +1,15 @@
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/bin/Debug/net8.0/pa5Lasttimepls
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/bin/Debug/net8.0/pa5Lasttimepls.deps.json
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/bin/Debug/net8.0/pa5Lasttimepls.runtimeconfig.json
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/bin/Debug/net8.0/pa5Lasttimepls.dll
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/bin/Debug/net8.0/pa5Lasttimepls.pdb
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.AssemblyInfoInputs.cache
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.AssemblyInfo.cs
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.csproj.CoreCompileInputs.cache
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.sourcelink.json
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.dll
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/refint/pa5Lasttimepls.dll
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.pdb
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/pa5Lasttimepls.genruntimeconfig.cache
+/Users/cpclemons1/Documents/MIS221/class/pa5Lasttimepls/obj/Debug/net8.0/ref/pa5Lasttimepls.dll

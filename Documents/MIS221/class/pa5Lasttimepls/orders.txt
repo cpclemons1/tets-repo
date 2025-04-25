@@ -1,0 +1,17 @@
+1#jeff@email.com#1#1#small#03/14/25#12#True
+2#helene@email.com#3#2#large#03/14/25#16#False
+3#claire@email.com#5#3#medium#03/16/25#8#False
+4#jason@email.com#2#2#large#03/17/25#12#False
+5#fiona@email.com#2#1#small#03/19/25#12#False
+6#sean@email.com#4#3#medium#03/18/25#16#False
+7#blake@email.com#3#3#large#03/20/25#8#True
+8#jake@email.com#1#1#large#03/21/25#12#False
+9#mia@email.com#2#4#small#03/23/25#12#False
+10#karmiya@email.com#2#5#medium#03/23/25#8#False
+11#steven@email.com#2#5#medium#03/23/25#16#False
+12#jeff@email.com#2#1#medium#03/15/25#12#False
+13#cassie@email.com#6#5#small#04/24/25#8#False
+14#haley@email.com#1#2#small#04/24/25#12#False
+15#lauren@email.com#2#0#none#04/24/25#8#True
+16#will@email.com#3#1#small#04/24/25#8#True
+17#haley@email.com#3#0#none#04/25/25#12#False

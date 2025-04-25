@@ -1,0 +1,9 @@
+1#Pepperoni Pizza#3#Thin#12.99#False#False
+2#Margherita Pizza#3#Thick#10.99#True#False
+3#BBQ Chicken Pizza#4#Stuffed#12.89#False#False
+4#Veggie Delight#4#Gluten-Free#11.99#False#True
+5#Meat Lover's Pizza#4#Thick#15.99#False#True
+6#Cassie's Pizza#2#Thick#8.99#False#True
+7#Chicken Alfredo Pizza#6#Stuffed#14.99#True#False
+8#Three Meat Pizza#3#Thin#7.99#False#True
+9#Supreme Pizza#8#Thick#12.99#False#False
