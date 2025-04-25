@@ -1,0 +1,15 @@
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.AssemblyInfoInputs.cache
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.AssemblyInfo.cs
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.csproj.CoreCompileInputs.cache
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.sourcelink.json
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/bin/Debug/net8.0/mis-221-pa-5-cpclemons
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/bin/Debug/net8.0/mis-221-pa-5-cpclemons.deps.json
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/bin/Debug/net8.0/mis-221-pa-5-cpclemons.runtimeconfig.json
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/bin/Debug/net8.0/mis-221-pa-5-cpclemons.dll
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/bin/Debug/net8.0/mis-221-pa-5-cpclemons.pdb
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.dll
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/refint/mis-221-pa-5-cpclemons.dll
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.pdb
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/mis-221-pa-5-cpclemons.genruntimeconfig.cache
+/Users/cpclemons1/Documents/MIS221/class/mis-221-pa-5-cpclemons/obj/Debug/net8.0/ref/mis-221-pa-5-cpclemons.dll
