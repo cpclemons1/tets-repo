@@ -1,0 +1,29 @@
+Building...
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5036
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/cpclemons1/Documents/MIS321/PA2-fresh/backend
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+JwtService initialized with SecretKey: YourSecret..., Issuer: FreelanceMusic, Audience: FreelanceMusicUsers
+JwtService initialized with SecretKey: YourSecret..., Issuer: FreelanceMusic, Audience: FreelanceMusicUsers
+Testing JWT token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMCIsImVtYWlsIjoic3R1ZGVudEB0ZXN0LmNvbSIsInJvbGUiOiJzdHVkZW50IiwianRpIjoiMTI3NzViNzgtMGI1OS00M2FkLTgzMWQtM2MzYmE5YmY1NmIyIiwiZXhwIjoxNzYxNDk4OTU4LCJpc3MiOiJGcmVlbGFuY2VNdXNpYyIsImF1ZCI6IkZyZWVsYW5jZU11c2ljVXNlcnMifQ.jZ1ZU4bq_l87Dk1wJx-5hczQGmqQTAVi9Z_KLcEcEQ4
+Validating token with SecretKey: YourSecret..., Issuer: FreelanceMusic, Audience: FreelanceMusicUsers
+Token validation successful
+All claims in the token:
+  userId: 10
+  http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: student@test.com
+  http://schemas.microsoft.com/ws/2008/06/identity/claims/role: student
+  jti: 12775b78-0b59-43ad-831d-3c3ba9bf56b2
+  exp: 1761498958
+  iss: FreelanceMusic
+  aud: FreelanceMusicUsers
+Claims found - userId: 10, email: , role: 
+One or more claims are null
+JWT validation returned null
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...

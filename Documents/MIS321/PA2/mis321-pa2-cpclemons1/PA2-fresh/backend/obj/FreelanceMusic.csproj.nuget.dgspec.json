@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cpclemons1/Documents/MIS321/PA2/mis321-pa2-cpclemons1/PA2-fresh/backend/FreelanceMusic.csproj": {}
+  },
+  "projects": {
+    "/Users/cpclemons1/Documents/MIS321/PA2/mis321-pa2-cpclemons1/PA2-fresh/backend/FreelanceMusic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cpclemons1/Documents/MIS321/PA2/mis321-pa2-cpclemons1/PA2-fresh/backend/FreelanceMusic.csproj",
+        "projectName": "FreelanceMusic",
+        "projectPath": "/Users/cpclemons1/Documents/MIS321/PA2/mis321-pa2-cpclemons1/PA2-fresh/backend/FreelanceMusic.csproj",
+        "packagesPath": "/Users/cpclemons1/.nuget/packages/",
+        "outputPath": "/Users/cpclemons1/Documents/MIS321/PA2/mis321-pa2-cpclemons1/PA2-fresh/backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cpclemons1/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.11/libexec/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

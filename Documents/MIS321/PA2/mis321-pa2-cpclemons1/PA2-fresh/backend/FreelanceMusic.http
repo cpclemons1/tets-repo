@@ -1,0 +1,6 @@
+@FreelanceMusic_HostAddress = http://localhost:5036
+
+GET {{FreelanceMusic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
